@@ -17,6 +17,15 @@
     https://github.com/Yellastro2/DWIJ/tree/main
 
 
+  - yTonWallet - ofline demo of crypto wallet:
+
+<img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2024-09-25_13-42-06.jpg" width="300"/> <img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2024-09-25_13-42-06%20(2).jpg" width="300"/>
+<img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2024-09-25_13-42-06%20(3).jpg" width="300"/>
+
+
+    https://github.com/Yellastro2/yTonWallet/tree/main/app/release
+
+
 - Telegram bots:
 
   -  GPT Midjourney bot:
