@@ -38,3 +38,5 @@
 
 <img src="https://github.com/Yellastro2/porfolio/blob/main/res/s2024-03-14%20025610.png" width="200"/>
 
+Contact: https://t.me/yellastro
+
