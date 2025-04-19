@@ -2,6 +2,14 @@
 
 - Android:
 
+
+  - LowCam 0.4MP:
+    
+<img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2025-04-19_11-26-02.jpg" width="300"/> <img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2025-04-19_11-25-44.jpg" width="300"/>
+    
+    [Скачать](https://t.me/lowcam04/7)
+
+
   - Neuro app:
     
 <img src="https://github.com/Yellastro2/NeuroApp/blob/main/res/photo_2023-10-16_17-28-20.jpg" width="300"/> <img src="https://github.com/Yellastro2/NeuroApp/blob/main/res/photo_2024-03-12_11-01-55.jpg" width="300"/>
