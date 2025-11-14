@@ -4,13 +4,19 @@
 
 
   - LowCam 0.4MP:
+ 
+  Subpar photos and videos from your overpriced Pixel camera, as if it were a beaten-up Nokia 3310
     
 <img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2025-04-19_11-26-02.jpg" width="300"/> <img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2025-04-19_11-25-44.jpg" width="300"/>
     
-    [Скачать](https://t.me/lowcam04/7)
+[Telegram](https://t.me/lowcam04/7)
+
+[Google Play](https://play.google.com/store/apps/details?id=com.yellastrodev.lowcam)
 
 
   - Neuro app:
+
+A client application with access to popular neural networks of text and images, it works through its backend, with authorization, payment, and dialog history.
     
 <img src="https://github.com/Yellastro2/NeuroApp/blob/main/res/photo_2023-10-16_17-28-20.jpg" width="300"/> <img src="https://github.com/Yellastro2/NeuroApp/blob/main/res/photo_2024-03-12_11-01-55.jpg" width="300"/>
     
@@ -19,8 +25,10 @@
 
   - DWIJ player:
 
-<img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2024-03-12_18-27-28.jpg" width="300"/> <img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2024-03-12_18-27-31.jpg" width="300"/>
-<img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2024-03-12_18-27-34.jpg" width="300"/>
+A music player based on the Yandex Music platform, with its own code base and its own individual interface design
+
+<img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2025-11-14_16-22-28.jpg" width="300"/> <img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2025-11-14_16-22-28 (2).jpg" width="300"/>
+<img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2025-11-14_16-22-28 (3).jpg" width="300"/><img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2025-11-14_16-22-28 (4).jpg" width="300"/><img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2025-11-14_16-22-28 (5).jpg" width="300"/>
  
     https://github.com/Yellastro2/DWIJ/tree/main
 
