@@ -5,7 +5,7 @@
 
   - LowCam 0.4MP:
  
-  Subpar photos and videos from your overpriced Pixel camera, as if it were a beaten-up Nokia 3310
+  Low-quality photos and videos with your expensive Pixel camera, as if it were an old Nokia. Premium access that disables ads is organized through its own backend, in conjunction with a telegram bot https://t.me/LowCam_bot
     
 <img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2025-04-19_11-26-02.jpg" width="300"/> <img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2025-04-19_11-25-44.jpg" width="300"/>
     
@@ -29,7 +29,8 @@ A music player based on the Yandex Music platform, with its own code base and it
 
 <img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2025-11-14_16-22-28.jpg" width="300"/> <img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2025-11-14_16-22-28 (2).jpg" width="300"/>
 <img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2025-11-14_16-22-28 (3).jpg" width="300"/><img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2025-11-14_16-22-28 (4).jpg" width="300"/><img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2025-11-14_16-22-28 (5).jpg" width="300"/>
- 
+
+https://github.com/Yellastro2/DWIJ_v3
 [Download](https://t.me/c/2042648959/7)
 
 
