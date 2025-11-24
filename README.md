@@ -1,6 +1,14 @@
 # porfolio
 
-- Android:
+Android application development since 2018, full cycle - task formation, architecture, development, documentation, testing. Since 2023, the development of AI integrations, Python, and the telegram API has also been underway.
+
+Android development (Kotlin\Java) — working with XML/Compose, CameraX, sensors (pedometer), background services, WorkManager, FFmpegKit, WebSocket, MVP/architectures, Dokka
+
+Backend/Infrastructure — Ktor, SQL, API interaction
+
+Fitness Integration - Hands—on experience with Google Fit, Mi Fit/Mi Fitness, pedometers, and real-world step collection.
+
+- Android Projects:
 
 
   - LowCam 0.4MP:
