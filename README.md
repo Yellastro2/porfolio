@@ -53,6 +53,10 @@ https://github.com/Yellastro2/DWIJ_v3
 
 - Telegram bots:
 
+  - Sklaud bot - telegram miniapp cloud storage with search by name, tags and folders
+ 
+<img src="https://github.com/Yellastro2/porfolio/blob/main/res/sklaud_1.jpg" width="200"/><img src="https://github.com/Yellastro2/porfolio/blob/main/res/sklaud_2.jpg" width="200"/><img src="https://github.com/Yellastro2/porfolio/blob/main/res/sklaud_3.jpg" width="200"/>
+
   -  GPT Midjourney bot:
     
 <img src="https://github.com/Yellastro2/porfolio/blob/main/res/%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F%202024-03-14%20025205.png" width="200"/><img src="https://github.com/Yellastro2/porfolio/blob/main/res/%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F%202024-03-14%20025220.png" width="200"/><img src="https://github.com/Yellastro2/porfolio/blob/main/res/%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F%202024-03-14%20025251.png" width="200"/>
