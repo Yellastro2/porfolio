@@ -11,7 +11,7 @@ Fitness Integration - Hands—on experience with Google Fit, Mi Fit/Mi Fitness, 
 - Android Projects:
 
 
-  - LowCam 0.4MP:
+# - LowCam 0.4MP:
  
   Low-quality photos and videos with your expensive Pixel camera, as if it were an old Nokia. Premium access that disables ads is organized through its own backend, in conjunction with a telegram bot https://t.me/LowCam_bot
     
@@ -21,8 +21,18 @@ Fitness Integration - Hands—on experience with Google Fit, Mi Fit/Mi Fitness, 
 
 [Google Play](https://play.google.com/store/apps/details?id=com.yellastrodev.lowcam)
 
+https://github.com/Yellastro2/PSHH_MESHRA/tree/master
 
-  - Neuro app:
+# - PSHH-MESHRA:
+
+  Local mesh messenger for nearby Android devices: create rooms, chat, and make voice calls without relying on a central server. The app combines Nearby Connections, experimental app-level mesh routing, and Wi-Fi Direct voice transport.
+
+[Repo](https://github.com/Yellastro2/PSHH_MESHRA/tree/master)
+<p>
+<img src="https://github.com/Yellastro2/PSHH_MESHRA/blob/master/docs/assets/pshh_chat.jpg" width="300"/> <img src="https://github.com/Yellastro2/PSHH_MESHRA/blob/master/docs/assets/pshh_loby.jpg" width="300"/> <img src="https://github.com/Yellastro2/PSHH_MESHRA/blob/master/docs/assets/pshh_chat.jpg" width="300"/>
+</p>
+
+# - Neuro app:
 
 A client application with access to popular neural networks of text and images, it works through its backend, with authorization, payment, and dialog history.
     
@@ -31,7 +41,7 @@ A client application with access to popular neural networks of text and images, 
     https://github.com/Yellastro2/NeuroApp
 
 
-  - DWIJ player:
+# - DWIJ player:
 
 A music player based on the Yandex Music platform, with its own code base and its own individual interface design
 
@@ -42,7 +52,7 @@ https://github.com/Yellastro2/DWIJ_v3
 [Download](https://t.me/c/2042648959/7)
 
 
-  - yTonWallet - ofline demo of crypto wallet:
+# - yTonWallet - ofline demo of crypto wallet:
 
 <img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2024-09-25_13-42-06.jpg" width="300"/> <img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2024-09-25_13-42-06%20(2).jpg" width="300"/>
 <img src="https://github.com/Yellastro2/porfolio/blob/main/res/photo_2024-09-25_13-42-06%20(3).jpg" width="300"/>
@@ -51,7 +61,7 @@ https://github.com/Yellastro2/DWIJ_v3
     https://github.com/Yellastro2/yTonWallet/tree/main/app/release
 
 
-- Telegram bots:
+# - Telegram bots:
 
   - Sklaud bot - telegram miniapp cloud storage with search by name, tags and folders
  
