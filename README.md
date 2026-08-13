@@ -49,7 +49,7 @@ A multiplatform (Android\Desktop) music player based on the Yandex Music platfor
 <img src="https://github.com/Yellastro2/DWIJ_v3/blob/master/docs/screenshots/multisource.jpg" width="300"/> <img src="https://github.com/Yellastro2/DWIJ_v3/blob/master/docs/screenshots/player.jpg" width="300"/>
 
 https://github.com/Yellastro2/DWIJ_v3
-[Download](https://t.me/c/2042648959/7)
+[Download]([https://t.me/c/2042648959/7](https://t.me/DWIJ_music))
 
 
 # - yTonWallet - ofline demo of crypto wallet:
