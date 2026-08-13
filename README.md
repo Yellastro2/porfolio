@@ -21,8 +21,6 @@ Fitness Integration - Hands—on experience with Google Fit, Mi Fit/Mi Fitness, 
 
 [Google Play](https://play.google.com/store/apps/details?id=com.yellastrodev.lowcam)
 
-https://github.com/Yellastro2/PSHH_MESHRA/tree/master
-
 # - PSHH-MESHRA:
 
   Local mesh messenger for nearby Android devices: create rooms, chat, and make voice calls without relying on a central server. The app combines Nearby Connections, experimental app-level mesh routing, and Wi-Fi Direct voice transport.
